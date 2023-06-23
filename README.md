@@ -4,7 +4,6 @@
  <img  src="https://i.ibb.co/b39GcVW/pexels-skitterphoto-760757.jpg"  />
 </div>
 
--  Hi, I’m @ArjumanJesmin
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -15,14 +14,14 @@ ArjumanJesmin/ArjumanJesmin is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 ##
-<h1>  👋 Hi! I'm Arjuman Jesmin</h1>
+<h1>  👋 Hi! I'm @Arjuman Jesmin</h1>
 
 
 
 ###
 
 <div align="left">
-  <img src="https://www.linkedin.com/in/arjuman-jesmin-1154a3240/" width="30" height="30" alt="linkedin logo"  />
+  <img src="[https://www.linkedin.com/in/arjuman-jesmin-1154a3240/](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BjzF%2BeTyRTFK2EPcVeKMsSw%3D%3D)" width="30" height="30" alt="linkedin logo"  />
   <img src="https://www.facebook.com/profile.php?id=100010975053237" width="30" height="30" alt="facebook logo"  />
   <img src="https://www.youtube.com/channel/UC1YUHG9_cGogUXaS5LLRXPw" width="30" height="30" alt="youtube logo"  />
 </div>
