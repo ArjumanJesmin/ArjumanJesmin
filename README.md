@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <div align="center">
-  <img height="200" src="https://www.freepik.com/premium-photo/snapchat-logo-round-button-3d_23151088.htm#from_view=detail_author"  />
+  <img height="400" src="https://www.freepik.com/premium-photo/snapchat-logo-round-button-3d_23151088.htm#from_view=detail_author"  />
 </div>
 
 ###
