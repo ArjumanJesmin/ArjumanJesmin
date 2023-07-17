@@ -1,7 +1,7 @@
 ##
 
 <div align="center">
- <img  src="https://i.ibb.co/b39GcVW/pexels-skitterphoto-760757.jpg"  />
+<img src="https://i.ibb.co/vDxwvdX/My-image.png" alt="My-image" border="0">
 </div>
 
 - 👀 I’m interested in ...
