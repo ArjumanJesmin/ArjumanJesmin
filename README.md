@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-![Banner](https://path-to-your-banner-image)
+![Banner](https://i.ibb.co/nktmrMm/card.png)
 
 ## 👨‍💻 Current Status
 I am a Full-Stack Developer specializing in creating scalable web applications. My current focus is on using modern technologies to build dynamic and efficient solutions.
@@ -48,12 +48,11 @@ I am a Full-Stack Developer specializing in creating scalable web applications. 
 ## 🌟 Projects
 - **[Project 1](https://github.com/ArjumanJesmin/portfolio-client):** A detailed project description.
 - **[Project 2](https://github.com/ArjumanJesmin/portfolio-server):** A detailed project description.
-- **[Project 3]((https://github.com/ArjumanJesmin/drive-wave-client)):** A detailed project description.
-- **[Project 3](https://github.com/ArjumanJesmin/drive-wave-server)):** A detailed project description.
+- **[Project 3](https://github.com/ArjumanJesmin/drive-wave-client):** A detailed project description.
+- **[Project 3](https://github.com/ArjumanJesmin/drive-wave-server):** A detailed project description.
 
 <hr/>
-## 📊 GitHub Stats
-<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=wow&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+
 
 <p>
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
