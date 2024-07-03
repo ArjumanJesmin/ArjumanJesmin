@@ -1,12 +1,13 @@
 # Welcome to My GitHub Profile!
 
-![Banner](https://i.ibb.co/nktmrMm/card.png)
+<!-- Banner with styles -->
+<img src="https://i.ibb.co/nktmrMm/card.png" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+
 
 ## 👨‍💻 Current Status
 I am a Full-Stack Developer specializing in creating scalable web applications. My current focus is on using modern technologies to build dynamic and efficient solutions.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=bear" width="400">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width="400">
 </p>
 
@@ -20,6 +21,7 @@ I am a Full-Stack Developer specializing in creating scalable web applications. 
 </p>
 
 <hr/>
+
 
 ## 🛠️ Technologies
 <p>
