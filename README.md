@@ -1,7 +1,10 @@
 # Welcome to My GitHub Profile!
 
 <!-- Banner with styles -->
-<img src="https://i.ibb.co/nktmrMm/card.png" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+<p align="center">
+  <img src="https://i.ibb.co/nktmrMm/card.png" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); transition: transform 0.2s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+</p>
+
 
 
 ## 👨‍💻 Current Status
@@ -15,10 +18,13 @@ I am a Full-Stack Developer specializing in creating scalable web applications. 
 
 ## 📬 Reach Me Out
 <p>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="mailto:arjumanjesmin221186@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100010975053237"><img src="https://img.shields.io/badge/facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="[https://instagram.com/your-profile](https://www.instagram.com/arjumanjesmin/)"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
+
 
 <hr/>
 
