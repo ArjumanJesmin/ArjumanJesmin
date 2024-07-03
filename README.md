@@ -1,29 +1,84 @@
-<img src="images/svg/header_en.svg"></img>
+# Welcome to My GitHub Profile!
 
-<table align="right">
- <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
-</table>
-### :space_invader: &nbsp;About Me
+![Banner](https://path-to-your-banner-image)
 
-&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working as a Software Engineer at [Cint](https://www.cint.com/). \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
-&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently researching software architecture, development, and quality.\
-&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Coding since 2004 with 10+ years of experience in enterprise wide software development.\
-&nbsp;&nbsp;&nbsp;:family_man_woman_girl_girl: &nbsp;Living in Brazil with my lovely wife :two_hearts:, Kali :service_dog:, and Maia :service_dog: .
+## 👨‍💻 Current Status
+I am a Full-Stack Developer specializing in creating scalable web applications. My current focus is on using modern technologies to build dynamic and efficient solutions.
 
 <p align="center">
-  <a href="mailto:brunotacca@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/bruno.vitorellitacca"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/brunotacca/"><img src=" https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/brunotacca/"><img src=" https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=f5f5f5" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <!--
-  <a href="https://twitter.com/BrunoTacca"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="http://lattes.cnpq.br/5511556848445955"><img src="https://img.shields.io/badge/lattes-FFFFFF.svg?&style=for-the-badge&&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACEFBMVEUAAAApQ14nQFj////r7/O8xMu8xMwnQlwmP1eeqLQjO1I2WHu1vsZjdYcsS2p4h5avuMI2XIPByM44ZJCbqrk1YYwtVn5mjrcxW4UwWIAvW4YAAAUrX5EvY5ksXIspW438/P0lU4EoV4ZhhKfe5u4nPVQqQlspQVsiO1QLJUAgNEkrRmEzUnI7X4Q/Y4dLZoJWbIJsfY7Axs4tS2k7YYicutixwtO5xM/U2d7r7e8hOFA6YoqErdWBnLc+Y4guT3E7VGw9U2hufY0wU3ZCcqKGqMlZgalKa4x0h5pofJD///80XYVCdal1l7t1nMNOhr6is8VMa4muusUlSGtDdqlQeaSqu8yGrNKVtte4zN90jqhBapObrL3///9Tfad4nMF9oshskLOJnK95gIZldodEX3oxW4ajtcf///8tVXw4YYlDa5JEbZY8XX0hPlsgQmS6ydj///8uWIEuX4/r7/QvYpcuZJrV3+r///8oWYsoXZKMqcbe5u7///8VN1YnWYyKp8PI1uP5+vz///9Rd52sv9Pd5e3///////9MfrBeksdOgrdUjslPh8FNhsFFea5BcaFJgrtHgLlGgLpii7VJf7dCerNDc6MqVYA0aZ1IeKktX5EtX5AsXY0tXY0wY5YyaZ4yaaB7ncAtZJouZJouZJssY5ovZZtrkbgnXZMlXJIoXpREc6I0ZZZTfaf///+qBrbaAAAAiXRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIl5fNRAFYND19Om8Zg5R7/zSmW8hCar98/DIVDYSE8r47OKPdgQRw+2x+7fQOgWa+G9+197Q/IsBVNrz/aQjWLL1sAw+5vbu7d3urAsQvHhn+7gbIdj2pCQCie64Wg0qqZVMEWJdG8oAAAABYktHRAMRDEzyAAAACXBIWXMAAAsSAAALEgHS3X78AAAAB3RJTUUH5QISCjIeEGUAIQAAAAFvck5UAc+id5oAAADXSURBVAjXY2BgZGJWVVPX0GRhZWNgYGDn0NLW0dXTNzA04gRyubiNTTq7TM3MLSx5eBkY+Kysu3tsbO3sHRyd+AUYBJ1devtc3fonuHt4egkxCHv7TJzk6+c/eUpAYJAIg2hwyNRpoWHhEZFR0TGxDGLicfEJiUnJKalp09MzGCQkM7Oyc3Lz8mfMnFVQyMAgVVQ8e87cefMXLFxUIs3AICNbWrZ4ydJly1eUVzAzMMjJV1atXLV6TXVNrQKQy6BYV792XUNjUzMzM4irpNzS2tbeoQLiAQAJLzuSRlKzowAAABZ0RVh0Q3JlYXRpb24gVGltZQAwNi8xOC8xMnLMg2gAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjEtMDItMThUMTA6NTA6MTQrMDA6MDBPCDl2AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIxLTAyLTE4VDEwOjUwOjE0KzAwOjAwPlWBygAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAASUVORK5CYII=" />
-  </a>
-  -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=bear" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width="400">
+</p>
+
+<hr/>
+
+## 📬 Reach Me Out
+<p>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+<hr/>
+
+## 🛠️ Technologies
+<p>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=Tailwind%20CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+</p>
+
+## 📈 Current Overview
+- I am currently working on several projects.
+- I'm exploring a project management application and integrating complex form features in Next.js.
+- Check out my repositories for more details.
+- Fun fact: 🚀 I love experimenting with new technologies and continuously improving my skills!
+
+
+<hr/>
+
+## 🌟 Projects
+- **[Project 1](https://github.com/ArjumanJesmin/portfolio-client):** A detailed project description.
+- **[Project 2](https://github.com/ArjumanJesmin/portfolio-server):** A detailed project description.
+- **[Project 3]((https://github.com/ArjumanJesmin/drive-wave-client)):** A detailed project description.
+- **[Project 3](https://github.com/ArjumanJesmin/drive-wave-server)):** A detailed project description.
+
+<hr/>
+## 📊 GitHub Stats
+<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=wow&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+
+<p>
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Sketch-FA6400?style=flat-square&logo=Sketch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
+  <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Lumen-E74430?style=flat-square&logo=Lumen&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-OVH%20Cloud-123F6D?style=flat-square&logo=OVH&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
 </p>
 
 <hr/>
